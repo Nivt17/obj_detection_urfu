@@ -1,5 +1,5 @@
-import requests
-import scipy.misc
+#import requests
+#import scipy.misc
 import numpy as np
 import tensorflow as tf
 import pandas as pd
